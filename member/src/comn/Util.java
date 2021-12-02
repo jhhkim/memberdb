@@ -45,6 +45,7 @@ public class Util {
 //		return sb.toString(); 
 	}
 
+	
 	// 파일 읽어서 화면에 출력(파일 내용을 여기 메소드 밖으로 보내고 싶다)
 	public static ArrayList<String> readLineFileList(String filePath) {
 		ArrayList<String> list = new ArrayList<String>();
